@@ -13,4 +13,6 @@ Welcome to my QA Portfolio! Here you’ll find examples of my work in manual tes
 - test-design-techniques/ — examples of test design techniques
 - test-cases/ — detailed test cases for web testing
 - bug-reports/ — structured bug reports from different platforms
-- testrail/ — sample test case from TestRail
+- testrail/ — simple test case from TestRail
+- sql-examples/ — basic and practical SQL queries
+- api-testing/ — Postman tests with explanation
