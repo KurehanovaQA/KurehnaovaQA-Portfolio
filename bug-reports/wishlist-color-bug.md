@@ -1,10 +1,10 @@
 # Bug Report: No Visual Indication of Selected Color in Wishlist - user can’t see which color is selected before adding to cart
 
-Feature: Wishlist (Favorites)  
-Severity: Medium  
-Type: Functional Bug  
-Environment: Windows 10, Google Chrome 
-Tested on: E-commerce website (tested as part of a practice cycle)
+**Feature:** Wishlist (Favorites)  
+**Severity:** Medium  
+**Type:** Functional Bug  
+**Environment:** Windows 10, Google Chrome 
+**Tested on:** E-commerce website (tested as part of a practice cycle)
 
 ---
 
